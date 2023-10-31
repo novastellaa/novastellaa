@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **novastellaa**
+Perkenalkan nama saya **Muhammad Nova Stella**
 
 ### Github Statistic
 <p align="left">
