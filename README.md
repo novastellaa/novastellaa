@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Muhammad Nova Stella**
 
 ### Github Statistic
+<a class="text-center" href="http://www.github.com/novastellaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=novastellaa&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <p align="left">
 <a href="https://github.com/novastellaa">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=novastellaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -25,4 +27,3 @@ Perkenalkan nama saya **Muhammad Nova Stella**
 </a>
 </p>
 
-<a class="text-center" href="http://www.github.com/novastellaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=novastellaa&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
