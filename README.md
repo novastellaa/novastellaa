@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Muhammad Nova Stella**
+Perkenalkan nama saya **Muhammad Nova Stella**, saat ini saya sedang belajar di Institut Teknologi Telkom Purwokerto, program studi Rekayasa Perangkat Lunak. Saya tertarik di bidang BackEnd developer.
 
 ### Github Statistic
 
