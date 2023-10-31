@@ -24,3 +24,5 @@ Perkenalkan nama saya **Muhammad Nova Stella**
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=novastellaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<a href="http://www.github.com/novastellaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=indrakurr&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
