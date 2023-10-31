@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Muhammad Nova Stella**
 
 ### Github Statistic
-<a class="text-center" href="http://www.github.com/novastellaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=novastellaa&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p align="left">
 <a href="https://github.com/novastellaa">
