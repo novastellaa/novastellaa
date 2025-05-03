@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-saya **Muhammad Nova Stella**, saat ini saya sedang belajar di Institut Teknologi Telkom Purwokerto, program studi Rekayasa Perangkat Lunak. Saya tertarik di bidang BackEnd developer.
+saya **Muhammad Nova Stella**, Lulusan Telkom University Purwokerto tahun 2025, dengan program studi Rekayasa Perangkat Lunak
 
 ### Github Statistic
 
