@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-saya **Muhammad Nova Stella**, Lulusan Telkom University Purwokerto tahun 2025, dengan program studi Rekayasa Perangkat Lunak
+My name is **Muhammad Nova Stella**, Fresh Graduate at Telkom University Purwokerto 2025, Bachelor degree in Software Engineering.
 
 ### Github Statistic
 
